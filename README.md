@@ -6,6 +6,6 @@
 <h2 align="left">Getting Started</h2>
 To run the application and look at whole functionality, you should download and install the next .apk file of the app:
 
-[Lab4_Teriatkin.apk](https://github.com/Teriatkin/MobileDev4/Lab4_Teriatkin.apk)
+[Lab4_Teriatkin.apk](https://github.com/Teriatkin/MobileDev4/blob/main/Lab4_Teriatkin.apk)
 
-<img src="https://github.com/Teriatkin/MobDev/blob/main/screenshots/4_1.PNG" width="250"><img src="https://github.com/Teriatkin/MobDev/blob/main/screenshots/4_2.PNG" width="250"><img src="https://github.com/Teriatkin/MobDev/blob/main/screenshots/4_3.PNG" width="250">
+<img src="https://github.com/Teriatkin/MobDev/blob/main/screenshots/4_1.jpg" width="250"><img src="https://github.com/Teriatkin/MobDev/blob/main/screenshots/4_2.jpg" width="250"><img src="https://github.com/Teriatkin/MobDev/blob/main/screenshots/4_3.jpg" width="250">
